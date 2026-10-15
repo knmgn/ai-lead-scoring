@@ -1,0 +1,36 @@
+{
+  "enterprise_tier_s": {
+    "name": "Sarah Jenkins",
+    "email": "sarah.jenkins@stripe.com",
+    "company_domain": "stripe.com",
+    "company_name": "Stripe",
+    "phone": "+1-415-555-0199",
+    "message": "We are experiencing significant speed-to-lead delays across our North American commercial pipeline. Currently losing around 25% of qualified enterprise inbound inquiries due to manual SDR triage latency. We urgently need an automated AI qualification and routing architecture before our Q4 sprint.",
+    "source": "Website Enterprise Contact Form"
+  },
+  "midmarket_tier_a": {
+    "name": "David Miller",
+    "email": "david.m@acme-test.io",
+    "company_domain": "acme-test.io",
+    "company_name": "Acme Innovations",
+    "phone": "+1-650-555-0144",
+    "message": "Hello, our SDR team of 12 reps is spending excessive hours qualifying inbound web leads into HubSpot. We are evaluating platforms to automate company intelligence enrichment and instant Slack alert routing.",
+    "source": "Demo Request Landing Page"
+  },
+  "nurture_tier_b": {
+    "name": "Jordan Lee",
+    "email": "jordan@notion.so",
+    "company_domain": "notion.so",
+    "company_name": "Productivity Hub",
+    "message": "Interested in understanding how your LLM prompt architecture structures scoring criteria. Do you offer self-service API plans or educational documentation?",
+    "source": "Blog Newsletter Inquiry"
+  },
+  "disqualified_tier_c": {
+    "name": "Chris Taylor",
+    "email": "chris.taylor@gmail.com",
+    "company_domain": "gmail.com",
+    "company_name": "Independent",
+    "message": "Hello, I am a computer science student looking for summer internship opportunities in AI engineering. Please check my attached resume.",
+    "source": "General Contact Form"
+  }
+}
