@@ -13,6 +13,22 @@
 
 ---
 
+## 🎥 Live Product Demo (39s Walkthrough)
+
+> **Watch the autonomous pipeline in action:** Inbound Webhook trigger via Swagger UI → Real-time Scraping & Multi-Model Qualification → Instant Slack Block Kit Alert to **Nexus LeadPulse** in under 60 seconds.
+
+<p align="center">
+  <a href="docs/demo.mp4">
+    <img src="docs/thumbnail.png" alt="Watch 39-second Live Demo Video" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <b><a href="docs/demo.mp4">Click to Watch Full Demo Video with Voiceover (MP4)</a></b> &bull; <i>Recorded live with FastAPI, Swagger UI & Nexus Commerce Slack</i>
+</p>
+
+---
+
 ## 1. Executive Summary
 
 In high-growth B2B enterprise sales, **speed-to-lead** is the single greatest determinant of pipeline conversion. Research by *Harvard Business Review* and *InsideSales* proves that responding to an inbound inquiry within **5 minutes** yields a **9x increase in qualified discovery meetings** compared to standard 30-minute SDR response times.
