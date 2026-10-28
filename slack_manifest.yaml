@@ -1,0 +1,22 @@
+display_information:
+  name: Nexus LeadPulse
+  description: Enterprise AI Lead Scoring & Autonomous Inbound RevOps Pipeline
+  background_color: "#0f172a"
+  long_description: "Nexus LeadPulse is an autonomous enterprise sales acceleration platform that enriches corporate firmographics in real-time, scores inbound leads using multi-model LLMs (Tiers S/A/B/C), and orchestrates instant CRM sync and interactive Block Kit alerts within 60 seconds."
+features:
+  bot_user:
+    display_name: Nexus LeadPulse
+    always_online: true
+oauth_config:
+  scopes:
+    bot:
+      - incoming-webhook
+      - chat:write
+      - chat:write.public
+settings:
+  interactivity:
+    is_enabled: true
+    request_url: http://localhost:8000/slack/actions
+  org_deploy_enabled: false
+  socket_mode_enabled: false
+  token_rotation_enabled: false
